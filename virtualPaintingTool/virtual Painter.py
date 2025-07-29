@@ -6,7 +6,7 @@ import os
 import time
 
 brushThickness = 6
-eraserThickness = 30
+eraserThickness = 1000
 
 cap = cv2.VideoCapture(0)
 cap.set(3, 1280)
