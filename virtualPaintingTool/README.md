@@ -26,5 +26,5 @@ This is a fun and interactive virtual painter project that lets you draw on the 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YourUsername/VirtualPainter.git
+git clone https://github.com/TayyabRabbani/VirtualPainter.git
 cd VirtualPainter
