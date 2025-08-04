@@ -28,5 +28,9 @@ This repository primarily utilizes the following technologies and libraries for 
 * **Mediapipe** For Hand Tracking projects
 
 ---
+## Contact
 
+Feel free to connect with me to discuss these projects or other AI/ML topics!
+
+-   **LinkedIn:**(www.linkedin.com/in/md-tayyab-rabbani-757653291)
 
